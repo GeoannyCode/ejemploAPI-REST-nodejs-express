@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Producto 1",
+    "descripcion": "Este es el primer producto de ejemplo",
+    "precio": 19.99,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "nombre": "Producto 2",
+    "descripcion": "Otro producto falso para fines de demostración",
+    "precio": 29.99,
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "nombre": "Producto 3",
+    "descripcion": "Un tercer producto de ejemplo con datos ficticios",
+    "precio": 9.99,
+    "stock": 100
+  }
+]
